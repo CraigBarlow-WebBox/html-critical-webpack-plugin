@@ -27,7 +27,7 @@
     "test": "npm run clean && mocha ./test/**/*.spec.js --timeout 5000"
   },
   "dependencies": {
-    "critical": "^4.0.0"
+    "critical": "^2.0.6"
   },
   "files": [
     "README.md",
